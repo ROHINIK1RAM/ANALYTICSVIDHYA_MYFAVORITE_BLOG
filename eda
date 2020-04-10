@@ -1,0 +1,30 @@
+Data science EDA , 
+
+EDA - https://medium.com/python-pandemonium/introduction-to-exploratory-data-analysis-in-python-8b6bcb55c190
+      https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
+
+In the exploratory data analysis we have come across many EDA Process like viewing the 
+
+* Summary of the data set 
+* Structure of the data set
+* Histograms 
+* Boxplots for finding the Outliers
+* Missing value treatment
+* Dropping the duplicate columns etc.
+
+Similarly there are lots of EDA Analysis that we have seen earlier , 
+
+Yesterday I was going through all the analytics blogs and really found this analytics blog 
+(https://www.analyticsvidhya.com/blog/2020/04/10-time-saving-data-exploration-hacks-tips-tricks/) was very useful one !!!!!
+
+Data Exploration Hack #1 – Pandas Profiling
+Data Exploration Hack#2 – Building Time Based Features
+Data Exploration Hack#3 – Heatmap over a Pandas DataFrame
+Data Exploration Hack#4 – Imputing missing values using KNNImputer
+Data Exploration Hack#5 – Plotting a Decision Tree
+Data Exploration Hack #6 – Binning Data
+Data Exploration Hack #7 – Funnel Charts
+Data Exploration Hack #8 – Pandas Crosstab
+Data Exploration Hack #9- Interactive plots
+Data Exploration Hack #10 – Bar Plot over Pandas DataFrame
+Please go and check wth the eda new techniques and methods or tools - https://www.analyticsvidhya.com/blog/2020/04/10-time-saving-data-exploration-hacks-tips-tricks/
